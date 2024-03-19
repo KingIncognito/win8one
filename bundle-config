@@ -19,12 +19,12 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": "4"
+        "VERSION": "5"
     },
     "POPUP_LOBBY" : {
         "BUNDLE":"PopupLobby",
         "PREFAB":"prefab/",
-        "VERSION":"1"
+        "VERSION":"2"
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -149,7 +149,7 @@
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
         "PREFAB": "prefab/TaiXiuMD5",
-        "VERSION": "4"
+        "VERSION": "5"
     },
     "MiniPoker" : {
         "BUNDLE": "MiniPoker",
