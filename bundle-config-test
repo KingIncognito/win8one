@@ -14,7 +14,7 @@
      "LOADING" : {
         "BUNDLE":"Loading",
         "SCENE": "scene/Loading",
-        "VERSION": "1"
+        "VERSION": ""
     },
     "LOBBY" : {
         "BUNDLE":"Lobby",
