@@ -177,7 +177,7 @@
         "VERSION": ""
     },
     "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIiIsImwiOiAiaHR0cHM6Ly93aW44b25lLmNsdWIvbmV3LWhvdC11cGRhdGUiLCAiZCI6ICIifQ==",
-    "hostName" : "https://win8one.club/test-hot-update",
+    "hostName" : "http://localhost:8000/new-hot-update",
     "isHotUpdate" : "true",
     "d" : ""
 }
