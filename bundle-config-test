@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": "2"
+        "VERSION": "3"
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -9,17 +9,17 @@
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
-        "VERSION": ""
+        "VERSION": "1"
     },
      "LOADING" : {
         "BUNDLE":"Loading",
         "SCENE": "scene/Loading",
-        "VERSION": ""
+        "VERSION": "1"
     },
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": "5"
+        "VERSION": "6"
     },
     "POPUP_LOBBY" : {
         "BUNDLE":"PopupLobby",
