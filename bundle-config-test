@@ -1,7 +1,7 @@
  { 
     "SCRIPTS_COMMON" : {
         "BUNDLE":"scripts",
-        "VERSION": "3"
+        "VERSION": ""
     },
     "PLUGINS" : {
         "BUNDLE":"plugins",
@@ -9,12 +9,12 @@
     },
     "COMMON_ASSETS" : {
         "BUNDLE":"CommonAssets",
-        "VERSION": "1"
+        "VERSION": ""
     },
      "LOADING" : {
         "BUNDLE":"Loading",
         "SCENE": "scene/Loading",
-        "VERSION": "1"
+        "VERSION": ""
     },
     "LOBBY" : {
         "BUNDLE":"Lobby",
@@ -24,7 +24,7 @@
     "POPUP_LOBBY" : {
         "BUNDLE":"PopupLobby",
         "PREFAB":"prefab/",
-        "VERSION":"2"
+        "VERSION":""
     },
     "BaCay" : {
         "BUNDLE":"BaCay",
@@ -144,7 +144,7 @@
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
         "PREFAB": "prefab/TaiXiu",
-        "VERSION": "2"
+        "VERSION": ""
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
